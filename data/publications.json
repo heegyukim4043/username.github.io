@@ -1,62 +1,62 @@
 [
   {
-    "title": "EEG hyperscanning reveals group-level belief updating in triadic PD",
+    "title": "Publication title 1",
     "authors": [
-      "H. Kim",
       "A. Author",
       "B. Author"
     ],
-    "venue": "Computers in Human Behavior",
+    "venue": "journal title",
     "year": 2025,
     "type": "journal",
     "doi": "10.0000/example.doi",
     "pdf": "#",
     "code": "#",
-    "dataset": "https://doi.org/10.6084/m9.figshare.28806815.v2",
+    "dataset": "dataset link",
     "tags": [
-      "EEG",
-      "Hyperscanning",
-      "Social Belief"
+      "keyword1",
+      "keyword2",
+      "keyword3"
     ],
-    "abstract": "We investigate belief maintenance vs violation using ERP and multilayer inter-brain networks in a triadic PD task.",
+    "abstract": "abstract...",
     "featured": true
   },
   {
-    "title": "Low-fatigue 40-class SSVEP Speller Dataset (beta-range stimulation)",
+    "title": "Publication title 2",
     "authors": [
-      "H. Kim",
-      "J. Jun"
+      "A. Author",
+      "B. Author"
     ],
-    "venue": "Scientific Data",
+    "venue": "journal title",
     "year": 2025,
-    "type": "dataset",
+    "type": "journal",
     "doi": "",
     "pdf": "#",
     "code": "#",
     "dataset": "#",
     "tags": [
-      "SSVEP",
-      "Dataset",
-      "BCI"
+      "keyword1",
+      "keyword2",
+      "keyword3"
     ],
     "abstract": "",
     "featured": true
   },
   {
-    "title": "Asynchronous brain-switch for MI-BCI via RNN with autocorrelation cues",
+    "title": "Publication title 3",
     "authors": [
-      "H. Kim",
-      "C. Collaborator"
+      "A. Author",
+      "B. Author"
     ],
-    "venue": "EMBC 2025",
+    "venue": "journal title",
     "year": 2025,
     "type": "conference",
     "pdf": "#",
     "tags": [
-      "BCI",
-      "RNN"
+      "keyword1",
+      "keyword2",
+      "keyword3"
     ],
-    "abstract": "An RNN-based detector for state transitions in asynchronous MI BCI.",
+    "abstract": "abstract.",
     "featured": false
   }
 ]
