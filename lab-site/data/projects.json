@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Triad PD Hyperscanning",
+    "summary": "ERP markers + multilayer inter‑brain networks for belief maintenance vs violation.",
+    "tags": [
+      "EEG",
+      "Networks",
+      "Hyperscanning"
+    ],
+    "status": "active",
+    "link": "#",
+    "gradient": "#3b82f6",
+    "gradient2": "#8b5cf6",
+    "featured": true
+  },
+  {
+    "title": "Asynchronous Brain‑Switch",
+    "summary": "RNN‑based detection for MI BCI with robust autocorrelation features.",
+    "tags": [
+      "BCI",
+      "RNN"
+    ],
+    "status": "active",
+    "link": "#",
+    "gradient": "#10b981",
+    "gradient2": "#3b82f6",
+    "featured": true
+  },
+  {
+    "title": "EEG → Vision",
+    "summary": "Diffusion models conditioned on neural signals for generative perception studies.",
+    "tags": [
+      "Diffusion",
+      "Multimodal"
+    ],
+    "status": "completed",
+    "link": "#",
+    "gradient": "#f59e0b",
+    "gradient2": "#ef4444",
+    "featured": true
+  },
+  {
+    "title": "Group Interaction Monitor",
+    "summary": "Real-time estimation of inter-brain synchrony with graph attention + GRU.",
+    "tags": [
+      "Graph",
+      "IBS",
+      "Real-time"
+    ],
+    "status": "active",
+    "link": "#",
+    "featured": false
+  }
+]

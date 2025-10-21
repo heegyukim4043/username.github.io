@@ -1,0 +1,62 @@
+[
+  {
+    "title": "EEG hyperscanning reveals group-level belief updating in triadic PD",
+    "authors": [
+      "H. Kim",
+      "A. Author",
+      "B. Author"
+    ],
+    "venue": "Computers in Human Behavior",
+    "year": 2025,
+    "type": "journal",
+    "doi": "10.0000/example.doi",
+    "pdf": "#",
+    "code": "#",
+    "dataset": "https://doi.org/10.6084/m9.figshare.28806815.v2",
+    "tags": [
+      "EEG",
+      "Hyperscanning",
+      "Social Belief"
+    ],
+    "abstract": "We investigate belief maintenance vs violation using ERP and multilayer inter-brain networks in a triadic PD task.",
+    "featured": true
+  },
+  {
+    "title": "Low-fatigue 40-class SSVEP Speller Dataset (beta-range stimulation)",
+    "authors": [
+      "H. Kim",
+      "J. Jun"
+    ],
+    "venue": "Scientific Data",
+    "year": 2025,
+    "type": "dataset",
+    "doi": "",
+    "pdf": "#",
+    "code": "#",
+    "dataset": "#",
+    "tags": [
+      "SSVEP",
+      "Dataset",
+      "BCI"
+    ],
+    "abstract": "",
+    "featured": true
+  },
+  {
+    "title": "Asynchronous brain-switch for MI-BCI via RNN with autocorrelation cues",
+    "authors": [
+      "H. Kim",
+      "C. Collaborator"
+    ],
+    "venue": "EMBC 2025",
+    "year": 2025,
+    "type": "conference",
+    "pdf": "#",
+    "tags": [
+      "BCI",
+      "RNN"
+    ],
+    "abstract": "An RNN-based detector for state transitions in asynchronous MI BCI.",
+    "featured": false
+  }
+]

@@ -1,0 +1,78 @@
+
+
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lab</title>
+  <meta name="description" content="A clean lab website template for GitHub Pages.">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+
+<header>
+  <nav class="nav">
+    <div class="left">
+      <a class="brand" href="index.html">Lab</a>
+    </div>
+    <div class="right">
+      <a href="news.html">News</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html">Projects</a>
+      <a href="people.html">People</a>
+      <a class="btn" href="#contact">Contact</a>
+    </div>
+  </nav>
+</header>
+
+  <main class="wrap" id="top" data-page="home">
+    <section class="hero">
+      <div>
+        <p class="kicker">EEG · Hyperscanning · BCI · Social Neuroscience</p>
+        <h1 class="title" id="site-title">Your Lab</h1>
+        <p class="muted" id="site-tagline">Tagline goes here</p>
+        <div class="tag-row" style="margin-top:8px">
+          <span class="chip">EEG</span><span class="chip">Hyperscanning</span><span class="chip">Graph Neural Nets</span><span class="chip">BCI</span>
+        </div>
+      </div>
+      <div class="avatar" aria-hidden="true"></div>
+    </section>
+
+    <section id="news-preview">
+      <h2>Latest News</h2>
+      <div class="list" data-bind="news-preview"></div>
+      <a class="btn" href="news.html" style="margin-top:10px">See all news</a>
+    </section>
+
+    <section id="pubs-preview">
+      <h2>Featured Publications</h2>
+      <div class="grid" data-bind="pubs-featured"></div>
+      <a class="btn" href="publications.html" style="margin-top:10px">See all publications</a>
+    </section>
+
+    <section id="projects-preview">
+      <h2>Projects</h2>
+      <div class="grid" data-bind="projects-preview"></div>
+      <a class="btn" href="projects.html" style="margin-top:10px">See all projects</a>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p class="muted">Email: <a id="site-email" href="#"></a> &nbsp;·&nbsp; GitHub: <a id="site-github" href="#" target="_blank" rel="noopener">GitHub</a> · X: <a id="site-x" href="#" target="_blank" rel="noopener">X</a></p>
+      <p class="muted" id="site-address"></p>
+    </section>
+  </main>
+
+<footer class="footer">
+  <div>© <span id="year"></span> <span class="brand-name">Lab</span>. Built for GitHub Pages.</div>
+</footer>
+
+
+  <script src="assets/lab.js"></script>
+</body>
+</html>
+
