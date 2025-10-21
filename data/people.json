@@ -1,9 +1,9 @@
 {
   "pi": [
     {
-      "name": "Heegyu Kim",
-      "role": "PI",
-      "affiliation": "GIST",
+      "name": "Name",
+      "role": "Role",
+      "affiliation": "affiliation",
       "email": "your.name@institute.edu",
       "github": "https://github.com/yourname"
     }
@@ -13,7 +13,7 @@
     {
       "name": "Student A",
       "role": "Ph.D. Student",
-      "affiliation": "GIST",
+      "affiliation": "affiliation",
       "email": "",
       "github": ""
     }
@@ -22,7 +22,7 @@
     {
       "name": "Student B",
       "role": "M.S. Student",
-      "affiliation": "GIST"
+      "affiliation": "affiliation"
     }
   ],
   "ug": [],
@@ -30,7 +30,7 @@
     {
       "name": "Alumnus C",
       "role": "M.S. (2024)",
-      "affiliation": "GIST",
+      "affiliation": "affiliation",
       "web": "#"
     }
   ]
