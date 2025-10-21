@@ -1,9 +1,9 @@
 {
-  "lab_name": "GIST Social & Neural Systems Lab",
-  "short_name": "SNS Lab",
-  "tagline": "EEG · Hyperscanning · BCI · Belief Dynamics",
-  "email": "your.name@institute.edu",
+  "lab_name": "Test lab page",
+  "short_name": "Short lab name(ex; C2NN lab)",
+  "tagline": "Keyword (ex; EEG, BCI, etc...)",
+  "email": "your.mail@address.com",
   "github": "https://github.com/yourname",
   "x": "https://x.com/yourhandle",
-  "address": "Gwangju Institute of Science and Technology (GIST), Korea"
+  "address": "address,"
 }
