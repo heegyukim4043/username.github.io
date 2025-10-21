@@ -1,0 +1,37 @@
+{
+  "pi": [
+    {
+      "name": "Heegyu Kim",
+      "role": "PI",
+      "affiliation": "GIST",
+      "email": "your.name@institute.edu",
+      "github": "https://github.com/yourname"
+    }
+  ],
+  "postdocs": [],
+  "phd": [
+    {
+      "name": "Student A",
+      "role": "Ph.D. Student",
+      "affiliation": "GIST",
+      "email": "",
+      "github": ""
+    }
+  ],
+  "ms": [
+    {
+      "name": "Student B",
+      "role": "M.S. Student",
+      "affiliation": "GIST"
+    }
+  ],
+  "ug": [],
+  "alumni": [
+    {
+      "name": "Alumnus C",
+      "role": "M.S. (2024)",
+      "affiliation": "GIST",
+      "web": "#"
+    }
+  ]
+}
